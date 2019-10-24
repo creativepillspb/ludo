@@ -5,5 +5,5 @@ module.exports = {
     lobbyTimeout: 10000,
     lobbyTimeoutCheckInterval: 5000,
     port: 8080,
-    baseUrl: '/ludo/'      //For use with reverse proxies.
+    baseUrl: '/'      //For use with reverse proxies.
 };
